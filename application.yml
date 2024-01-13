@@ -1,7 +1,7 @@
 ##service registry config
 spring:
   application:
-    name: Config-Dev
+    name: Config-Default
 eureka:
   instance:
     prefer-ip-address: true
